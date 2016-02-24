@@ -1,0 +1,20 @@
+C:\Users\Kotchaphan Muangsan\Desktop\Windows Phone Project\OS Project\OS Project\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Kotchaphan Muangsan\Desktop\Windows Phone Project\OS Project\OS Project\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Kotchaphan Muangsan\Desktop\Windows Phone Project\OS Project\OS Project\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Kotchaphan Muangsan\Desktop\Windows Phone Project\OS Project\OS Project\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Kotchaphan Muangsan\Desktop\Windows Phone Project\OS Project\OS Project\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Kotchaphan Muangsan\Desktop\Windows Phone Project\OS Project\OS Project\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Kotchaphan Muangsan\Desktop\Windows Phone Project\OS Project\OS Project\Bin\Debug\OS Project.dll
+C:\Users\Kotchaphan Muangsan\Desktop\Windows Phone Project\OS Project\OS Project\Bin\Debug\OS Project.pdb
+C:\Users\Kotchaphan Muangsan\Desktop\Windows Phone Project\OS Project\OS Project\Bin\Debug\AppManifest.xaml
+C:\Users\Kotchaphan Muangsan\Desktop\Windows Phone Project\OS Project\OS Project\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Kotchaphan Muangsan\Desktop\Windows Phone Project\OS Project\OS Project\Bin\Debug\OS_Project_Debug_AnyCPU.xap
+C:\Users\Kotchaphan Muangsan\Desktop\Windows Phone Project\OS Project\OS Project\obj\Debug\App.g.cs
+C:\Users\Kotchaphan Muangsan\Desktop\Windows Phone Project\OS Project\OS Project\obj\Debug\Forms\splash.g.cs
+C:\Users\Kotchaphan Muangsan\Desktop\Windows Phone Project\OS Project\OS Project\obj\Debug\MainPage.g.cs
+C:\Users\Kotchaphan Muangsan\Desktop\Windows Phone Project\OS Project\OS Project\obj\Debug\OS Project.g.resources
+C:\Users\Kotchaphan Muangsan\Desktop\Windows Phone Project\OS Project\OS Project\obj\Debug\OS_Project.Resources.AppResources.resources
+C:\Users\Kotchaphan Muangsan\Desktop\Windows Phone Project\OS Project\OS Project\obj\Debug\OS Project.csproj.GenerateResource.Cache
+C:\Users\Kotchaphan Muangsan\Desktop\Windows Phone Project\OS Project\OS Project\obj\Debug\OS Project.dll
+C:\Users\Kotchaphan Muangsan\Desktop\Windows Phone Project\OS Project\OS Project\obj\Debug\OS Project.pdb
+C:\Users\Kotchaphan Muangsan\Desktop\Windows Phone Project\OS Project\OS Project\obj\Debug\XapCacheFile.xml
